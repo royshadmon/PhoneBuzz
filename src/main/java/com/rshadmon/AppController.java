@@ -97,6 +97,7 @@ public class AppController {
         int num = Integer.parseInt(digits);
         StringBuilder fizzBuzz = new StringBuilder();
 
+        //FizzBuzz checks
         for (int i = 1; i <= num; i++) {
             if (i % 3 == 0 && i % 5 == 0) {
                 fizzBuzz.append("Fizz Buzz ");
