@@ -30,3 +30,7 @@ AUTH_TOKEN
 
 ######CallTimerTask class:
 twilioNumber
+
+######Change the herokuapp.com link to your own because you will need to deploy your site for the changes to be updated:
+
+Mine is: https://fathomless-coast-34877.herokuapp.com/
