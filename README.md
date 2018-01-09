@@ -2,26 +2,26 @@
 
 Here's the link to a working online version:
 
-https://salty-retreat-88070.herokuapp.com/
+https://fathomless-coast-34877.herokuapp.com/
 
 Phases 1-3 are completed.
 
 ####Building the program:
-To build the application, run the following command:
+Build the application, run:
 
 `mvn clean install`
 
 ####Running the program:
-To run the application, run the following command:
+Run the application locally:
 
 `mvn spring-boot:run`
 
-You can access the application at:
+Type in the following url into your browser:
 
 http://localhost:8080/
 
 ####Credentials:
-If you want to replace the Twilio credentials, replace the following fields with your own credentials:
+To use your own credentials, replace the following fields with your own:
 
 ######AppController class:
 ACCOUNT_SID
